@@ -1,8 +1,8 @@
 {
   "name": "hws2",
-  "homepage": "https://Sun-ny11.github.io/homework-front",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Sun-ny11.github.io/homework-tuesday",
   "dependencies": {
     "@emotion/react": "11.10.4",
     "@emotion/styled": "11.10.4",
