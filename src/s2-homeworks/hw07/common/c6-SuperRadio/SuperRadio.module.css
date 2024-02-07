@@ -1,15 +1,30 @@
 .radio {
+   display: flex;
+   flex-direction: column;
+   gap: 19px;
+
 }
 
-.radio::before {
-}
+
+.radio::before {}
 
 
-.radio:checked::before {
-}
+.radio:checked::before {}
 
 .label {
+   display: flex;
+   gap: 11px;
+   padding-bottom: 19px;
 }
 
 .options {
+   color: #000;
+
+   font-family: "Montserrat";
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+
+
 }
