@@ -1,8 +1,14 @@
 .container {
+   width: 250px;
 }
 
 .wrapper {
+   display: flex;
+   gap: 20px;
 }
 
 .number {
+   font-weight: 600;
+   font-size: 16px;
+   width: 24px;
 }
